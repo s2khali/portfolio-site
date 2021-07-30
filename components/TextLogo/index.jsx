@@ -2,8 +2,8 @@ import StyledTextLogo from "./styles/StyledTextLogo";
 
 const TextLogo = (props) => {
     return (
-        <StyledTextLogo>
-            <span className='logoLong'>benschnell</span>
+        <StyledTextLogo  href="/">
+            <span className='logoLong'>ben schnell</span>
             <span className='logoShort'>bs</span>
         </StyledTextLogo>
     )
